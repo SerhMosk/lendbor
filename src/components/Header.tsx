@@ -14,7 +14,7 @@ export const Header = () => {
         <Navbar.Brand href="#home">
           <img
             alt="logo"
-            src="/img/lendbor-64.png"
+            src="./img/lendbor-64.png"
             className="d-inline-block align-top app-logo"
           />{' '}
           Lendbor
